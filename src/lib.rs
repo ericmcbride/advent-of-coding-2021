@@ -1,3 +1,4 @@
+mod dive;
 mod sonar;
 
 pub(crate) type Error = Box<dyn std::error::Error>;
